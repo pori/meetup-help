@@ -236,6 +236,11 @@ There is a `#meetups` channel on the official Vue.JS Discord server/chatroom:
             <li>Denver - <a href="https://meetup.com/Denver-Vue-js-Meetup">Denver Vue.js Meetup</a></li>
           </ul>
         </li>
+        <li>Florida
+          <ul>
+            <li>Orlando - <a href="https://meetup.com/VueOrlando">Vue Orlando Meetup</a></li>
+          </ul>
+        </li>
         <li>Georgia
           <ul>
             <li>Atlanta - <a href="https://meetup.com/Atlanta-Vue-js-Meetup">Atlanta Vue.js Meetup</a></li>
